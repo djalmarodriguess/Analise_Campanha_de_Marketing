@@ -1,5 +1,7 @@
 # Análise da Campanha de Marketing de 2018
 
+![campanha voos](https://github.com/user-attachments/assets/ca78fb58-deb3-4796-a793-03b5078556ca)
+
 ## Situação
 
 A empresa implementou uma campanha promocional em 2018, com o objetivo de aumentar o número de clientes cadastrados em seu programa de fidelidade. 
