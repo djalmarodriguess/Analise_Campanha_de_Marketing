@@ -119,6 +119,6 @@ comparação com o ano anterior e o aumento nos voos reservados.
 
 ## 📧 Contato
 
-- **Confira meu **[Portifólio](https://www.datascienceportfol.io/djalmarodrigues1206)  
-- **Veja meu **: [LinkedIn](https://www.linkedin.com/in/djalma-rodrigues/)  
-- **Conheça meu **: [GitHub](https://github.com/djalmarodriguess)
+- **Confira meu** [Portifólio](https://www.datascienceportfol.io/djalmarodrigues1206)  
+- **Veja meu** [LinkedIn](https://www.linkedin.com/in/djalma-rodrigues/)  
+- **Conheça meu** [GitHub](https://github.com/djalmarodriguess)
